@@ -1,0 +1,7 @@
+{
+  "name": "Humor Sense: 15-Day Deliberate Practice",
+  "description": "A structured 15-day coaching application based on Li Xin's 'Sense of Humor', featuring daily knowledge points, golden sentences, and real-time voice roleplay practice using Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
